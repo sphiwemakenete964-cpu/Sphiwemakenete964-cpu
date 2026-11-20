@@ -9,7 +9,8 @@ Second-year **Mechatronics Engineering** student at the **University of Cape Tow
 - **Software:** Python (data acquisition, Jupyter, NumPy), MATLAB, Simulink, Simscape, LaTeX
 
 ## Featured project
-**[Automatic Penguin Monitoring System (APMS)](link-to-your-apms-repo)**: a Raspberry Pi HAT PCB with load-cell weighing, current sensing and GSM data transmission for remote field use.
+
+[**Automated Penguin Monitoring System (APMS)**](https://github.com/sphiwemakenete964-cpu/Automated-penguin-monitoring-system): An engineering project involving a Raspberry Pi HAT PCB for load-cell weighing, current sensing and GSM-based data transmission for remote field monitoring. My contribution focused on PCB implementation and layout using KiCad 10.
 
 ## Currently
 - Studying Signals and Systems and Power Engineering
